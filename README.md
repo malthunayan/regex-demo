@@ -1,5 +1,11 @@
 # Regular Expression Cheat Sheet
 
+- [Tokens](#token)
+- [Quantifiers](#quantifiers)
+- [Characters to Escape](#some-characters-to-escape)
+- [Email Regex](#email-regex)
+- [Resources](#resources)
+
 ## Tokens
 
 - `.` - Any Character Except New Line
